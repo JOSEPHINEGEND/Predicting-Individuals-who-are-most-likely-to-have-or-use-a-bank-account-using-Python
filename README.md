@@ -1,29 +1,26 @@
 # Moringa_Data_Science_Core_W1_Independent_Project_2019_08_Josephine_Wanjiku_Python_Notebook
 
-Moringa_Data_Science_Core_W1_Independent_Project_2019_08_Josephine_Wanjiku_Python_Notebook
-
 # {Predict which individuals are most likely to have or use a bank account.}
 
-#### {Brief description of application}, {August, 2019}
+#### {IP WEEK 1 DATA SCIENCE CORE}, {August, 2019}
 
 #### By **{Josephine Wanjiku}**
 
 ## Description
 
-{
-# Research question: Predict which individuals are most likely to have or use a bank account.
+{ Research question: Predict which individuals are most likely to have or use a bank account.
 
-# Provide an indication of the state of the financial inclusion in kenya, Rwanda, Tanzania and Uganda
+ Provide an indication of the state of the financial inclusion in kenya, Rwanda, Tanzania and Uganda
 
-# Provide insights into some of the key demographic factors that might drive individual's financial outcomes.
+ Provide insights into some of the key demographic factors that might drive individual's financial outcomes.
 
-# Exploratory Data Analysis.
+ Exploratory Data Analysis.
 
-# Univariate, Bivariate and Multivariate Analysis.
+ Univariate, Bivariate and Multivariate Analysis.
 
-# Reduction techniques:Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA).
+ Reduction techniques:Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA).
 
-# Mutiple Linear Regression Analysis.}
+ Mutiple Linear Regression Analysis.}
 
 ## Setup/Installation Requirements
 
