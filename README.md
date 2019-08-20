@@ -21,6 +21,8 @@
  * Reduction techniques:Principal Component Analysis (PCA), Linear Discriminant Analysis (LDA).
 
  * Mutiple Linear Regression Analysis.
+ 
+ * Logistic Regression Analysis
 
 ## Setup/Installation Requirements
 
@@ -46,4 +48,4 @@
 ### License
 *{MIT License.  See below for more details on licensing.}*
 
-Copyright (c) {year} **{Moringa School Data Science 1}**
+Copyright (c) {year} **{Moringa School Data Science Core 1}**
